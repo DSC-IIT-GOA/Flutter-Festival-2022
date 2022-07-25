@@ -1,7 +1,7 @@
 # Flutter-Festival-2022
 Repo containing all material made and used in flutter festival 2022.
 
-Fecilitator - @anish-natekar
+Facilitator - @anish-natekar
 
 * Flutter Guide for Noobs - https://anishsan.hashnode.dev/flutter-guide-for-noobs
 
